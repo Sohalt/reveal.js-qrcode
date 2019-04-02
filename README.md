@@ -16,7 +16,9 @@ Add
 
 ## Usage
 
-Simply add a `div` with a class of `"reveal-js-qrcode"` to any of your presentation's slides. It will be automatically replaced by a QR Code pointing to the URL the presentation is hosted at.
+Simply add a `div` with a class of `reveal-js-qrcode` to any of your presentation's slides. It will be automatically replaced by a QR Code pointing to the URL the presentation is hosted at.
+
+If you additionally want to display the link to the URL below the QR Code, simply also add the class `reveal-js-qrcode-display-link`.
 
 ## TODO
 

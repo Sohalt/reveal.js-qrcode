@@ -8,7 +8,7 @@ Clone this repo to your plugins folder in your reveal.js presentation.
 Add
 
 ```
-{ src: 'plugin/reveal.js-qrcode/qrcode.min.js'}
+{ src: 'plugin/reveal.js-qrcode/qrcode.min.js'},
 { src: 'plugin/reveal.js-qrcode/index.js'}
  ```
  
